@@ -1,5 +1,8 @@
 Compute the politeness of a number.
 
+![CI/CD](https://github.com/nsylv/politeness/workflows/CI/CD/badge.svg)
+[![codecov](https://codecov.io/gh/nsylv/politeness/branch/master/graph/badge.svg)](https://codecov.io/gh/nsylv/politeness)
+
 # Politeness
 
 The politeness of a number is teh number of ways it can be expressed as the sum of consecutive integers.
